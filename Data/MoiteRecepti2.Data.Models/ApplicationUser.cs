@@ -1,4 +1,4 @@
-﻿// ReSharper disable VirtualMemberCallInConstructor
+﻿ // ReSharper disable VirtualMemberCallInConstructor
 namespace MoiteRecepti2.Data.Models
 {
     using System;
