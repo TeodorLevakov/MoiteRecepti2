@@ -17,6 +17,7 @@
                 return;
             }
 
+
             await dbContext.Categories.AddAsync(new Category { Name = "Тарт" });
             await dbContext.Categories.AddAsync(new Category { Name = "Кекс" });
             await dbContext.Categories.AddAsync(new Category { Name = "Печено свинско" });
